@@ -85,6 +85,18 @@ Then execute the command invoking with flask cli with command name and the relev
 ```bash
 $ flask user create bob bobpass
 ```
+# CLI Commands
+#flask createCourses createCourse
+#flask createCourses initializeNewCourse
+#flask createCourses createNewCourse
+#flask viewCourseStaff displayAllCourseStaff 
+#flask administrator viewCourseStaff
+#flask administrator initializeAdmin
+#flask administrator create_admin 
+#flask administrator createCourse
+#flask assignStaff assignStaff
+#flask createCourses initializeNewCourse
+#flask createCourses createNewCourse
 
 
 # Running the Project
